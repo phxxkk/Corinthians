@@ -18,7 +18,7 @@ header {
 
 }
 
-.nav-item :hover {
+.nav-item:hover {
     cursor: pointer;
     background-color: chartreuse;
     color: darkgreen;
